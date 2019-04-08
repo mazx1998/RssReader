@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News Aggregator</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="read_news">read news</string>
+</resources>
